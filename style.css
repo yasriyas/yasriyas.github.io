@@ -54,7 +54,7 @@ body {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
     body {
-      font-size:80px;
+     
     overflow: hidden;
   }
 }
@@ -75,7 +75,7 @@ body {
   .col-s-12 {width: 100%;}
  
   body {
-     font-size:60px;
+    
     zoom:44%;
     height: auto;
     overflow: auto;
