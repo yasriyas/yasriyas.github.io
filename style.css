@@ -36,7 +36,6 @@ body {
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
-  font-size:auto;
 }
 
 /* Styles for desktop */
@@ -160,7 +159,7 @@ img {
 
 .showcase h1 {
   margin:30px;
-  font-size: 4.5rem;
+  font-size: 6.5rem;
   line-height: 1.2em;
   width: 90%;
   display: block;
