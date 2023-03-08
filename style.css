@@ -52,7 +52,7 @@ body {
     zoom:90%;
    height: auto;
     overflow:auto;
-    display: fixed;
+    display: block;
   }
 }
 
