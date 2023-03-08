@@ -98,8 +98,8 @@ img {
 .home-logo {
   margin-top: 0;
   margin-left: 0;
-  width: 137px;
-  height: 80px;
+  width: 160px;
+  height: 90px;
   object-fit: scale-down;
   
 }
@@ -157,7 +157,7 @@ img {
 
 .showcase h1 {
   margin:30px;
-  font-size: 4.5rem;
+  font-size: 5.5rem;
   line-height: 1.2em;
   width: 90%;
   display: block;
