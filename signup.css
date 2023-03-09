@@ -29,7 +29,7 @@ body {
 	.col-s-12 {width: 100%;}
    
 body {
-		zoom:90%;
+		zoom:70%;
 	 height: auto;
 	  overflow:auto;
 	 
@@ -37,7 +37,7 @@ body {
 }
 
 main{ 
-	  zoom:110%;
+	  zoom:130%;
       align-items: center;
 	  padding: 100px;
 	  display: block;
