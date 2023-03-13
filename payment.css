@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Styles for mobile */
+@media only screen and (max-width: 900px) {
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+ 
+  body {
+    zoom:40%;
+   height: auto;
+    overflow:auto;
+    display: hidden;
+    background-color:#FEF9F5 ;
+    position: fixed;
+  }
+}
+body{
+  zoom:50%;
+  height: auto;
+   overflow:auto;
+   display: block;
+   background-color:white ;
+}
+.sidenav{
+  zoom:70%;
+}
+.pay{
+    width:400px;
+    margin-top:10px;
+    margin-left: 160px;
+
+
+}
+.buy{
+width: 20%;
+height: 20%;
+margin: 15px;
+margin-left: 290px;
+padding: 1%;
+padding-left:1%;
+border-radius: 7%;
+border-color:#64cf68;
+background-color: #64cf68;
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+text-align: center;
+font-style:normal;
+color: white;
+}
+.containerbutton{
+  
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  
+  }
+  .text {
+    font-size: larger;
+    margin-top: 8px;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 10px;
+    color: #E61E28;
+  }
+  
+  .chat-btn {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(230, 234, 237);
+    color:  rgb(230, 234, 237);
+    font-size: 16px;
+    margin-left: 42%;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    border: rgb(230, 234, 237);
+  }
+  .chat-btn:hover {
+    border: rgb(230, 234, 237);
+    background-color: rgb(230, 234, 237);
+  }
+  
+  .chat-btn:active {
+    border: rgb(230, 234, 237);
+    background-color:rgb(230, 234, 237) ;
+  }
+  
+  
+  
